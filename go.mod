@@ -1,6 +1,6 @@
 module github.com/jan0ski/freemaild
 
-go 1.23
+go 1.23.0
 
 require (
 	github.com/mhale/smtpd v0.0.0-20200509114310-d7a07f752336
@@ -15,7 +15,7 @@ require (
 	github.com/googleapis/gax-go/v2 v2.0.5 // indirect
 	go.opencensus.io v0.22.5 // indirect
 	golang.org/x/net v0.0.0-20201031054903-ff519b6c9102 // indirect
-	golang.org/x/sys v0.0.0-20201201145000-ef89a241ccb3 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/text v0.3.4 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20201201144952-b05cb90ed32e // indirect
