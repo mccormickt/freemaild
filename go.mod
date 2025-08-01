@@ -1,6 +1,6 @@
 module github.com/jan0ski/freemaild
 
-go 1.23.0
+go 1.23
 
 require (
 	github.com/mhale/smtpd v0.0.0-20200509114310-d7a07f752336
